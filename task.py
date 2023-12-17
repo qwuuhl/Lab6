@@ -13,7 +13,7 @@ def btn_click():
         mark += 3
     if v7.get() == 2:
         mark += 2
-    if chb7.get() == '1991':
+    if chb7.get() == '2008':
         mark += 2
     if v9.get() == 1 and v10.get() == 1 and v11.get() == 1 and v12.get() == 1:
         mark += 2
